@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
 BOT_TOKEN = "7834089718:AAHn6yzw2hW3wOTcG7y9JCFX84rvvGoX2Xs"
-OWNER_ID = 1709703325
-TELEGRAM_API = 5398201
-TELEGRAM_HASH = "5b8436d35c5ab09d01026c261b2b9c1b"
-DATABASE_URL = "mongodb+srv://jauharobaid:1VAOB4Fm5gvM2YKS@cluster0.1nc4nru.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+OWNER_ID = 103325
+TELEGRAM_API = 53901
+TELEGRAM_HASH = "5b8436d35b09d01026c261b2b9c1b"
+DATABASE_URL = ":1VAOB4Fm5gvM2YKS@cluster0.1nc4nru.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
